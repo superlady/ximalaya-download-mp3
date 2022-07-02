@@ -30,3 +30,5 @@
 软件支持 Mac、Windows 系统。
 
 [软件下载](https://software.jscs.top/archives/%E6%9C%80%E6%96%B0%E5%8F%AF%E7%94%A82022%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85fm%E9%9F%B3%E9%A2%91vip%E4%B8%93%E8%BE%91%E4%B8%8B%E8%BD%BD%E5%99%A8)
+
+软件下载入口在页面最下方。
