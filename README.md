@@ -31,7 +31,7 @@
 
 [软件下载]
 
-[Mac_XimalayaDownload.zip](https://github.com/pashangshangpo/ximalaya-download-mp3/files/9163733/Mac_XimalayaDownload.zip)
-[windows_XimalayaDownload.zip](https://github.com/pashangshangpo/ximalaya-download-mp3/files/9163734/windows_XimalayaDownload.zip)
+- [Mac_XimalayaDownload.zip](https://github.com/pashangshangpo/ximalaya-download-mp3/files/9163733/Mac_XimalayaDownload.zip)
+- [windows_XimalayaDownload.zip](https://github.com/pashangshangpo/ximalaya-download-mp3/files/9163734/windows_XimalayaDownload.zip)
 
 软件下载入口在页面最下方。
