@@ -29,7 +29,7 @@
 
 软件支持 Mac、Windows 系统。
 
-[软件下载]
+## 软件下载
 
 - [Mac_XimalayaDownload.zip](https://github.com/pashangshangpo/ximalaya-download-mp3/files/9163733/Mac_XimalayaDownload.zip)
 - [windows_XimalayaDownload.zip](https://github.com/pashangshangpo/ximalaya-download-mp3/files/9163734/windows_XimalayaDownload.zip)
