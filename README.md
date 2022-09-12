@@ -34,5 +34,5 @@
 
 ## 软件下载
 
-- [Mac_XimalayaDownload.zip](https://jscs.lanzouw.com/iaGlX0avls2d)
-- [windows_XimalayaDownload.zip](https://jscs.lanzouw.com/iynIm0avlsfg)
+- [Mac_XimalayaDownload.zip](https://jscs.lanzouw.com/iIu050biz1ta)
+- [windows_XimalayaDownload.zip](https://jscs.lanzouw.com/iF3Al0biz1ij)
